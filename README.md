@@ -1,2 +1,2 @@
-# new-developer-handbook
+# New developer handbook
 How to work with us
