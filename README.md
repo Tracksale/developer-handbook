@@ -1,6 +1,9 @@
 ## Developer Handbook
 An always evolving overview about how we work together as a team. Suggestions are always welcome, just make a Pull Request.
 
+The main takeway from our process is that while we need *good* over *perfect* we have to optimize for *perfect* as much as possible while the team grows and we can split responsabiblities.
+
+
 ### Rules and Conventions
 We currently use a best-effort approach to most of our rules described here, for now only a few of them are actually enforced.
 
