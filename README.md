@@ -55,3 +55,10 @@ We **MUST** allocate at least 30% more resources than we need currently to have 
 
 We **SHOULD** implement a proxy system for all the packages we need from external sources so we have a more stable ecosystem
 
+### Open Source and Community
+
+We **SHOULD** embrace open source where possible, this means open sourcing projects we are proud of that are not essential for our core business
+
+We **SHOULD** behave profissionally while representing the company in public events.
+
+We **MAY** host our own events but they **MUST** be held to really high standards and the presentations **MUST** be backed by real world production data, we **MAY** charge entrance fees
