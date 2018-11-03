@@ -17,7 +17,7 @@ We **MUST** create github issues for project tasks
 
 We **MUST NOT** use synchronous chat(Whatsapp, Telegram, Workplace) for important information or discussion, email or github isses are better for these use cases.
 
-Before changing something non-trivial in any project you **SHOULD** discuss the change with the project owner
+Before changing something non-trivial in any project you **SHOULD** discuss the change with the code owner
 
 ### Programming Languages
 We **SHOULD** keep our project stacks as homogenous as possible but sometimes we have problems that **MAY** be solved using other languages and tools.
