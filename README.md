@@ -32,7 +32,7 @@ We **SHOULD** keep our project stacks as homogenous as possible but sometimes we
 
 #### Apps:
 - Web: Javascript
-- Mobile: Kotlin (?)
+- Mobile: React Native, Kotlin (?)
 
 ### Development Flow
 Currently we use master as an staging branch which we **MUST** to never break, prod branch as production branch. By default all new code **SHOULD** be branched from master.
