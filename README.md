@@ -40,7 +40,15 @@ We **MAY** look into a proper gitflow(tags and releases) after the team has enou
 
 We **SHOULD** commit frequently with helpful messages
 
+### Infrastructure
 
+We **MUST** consider AWS as stable and reliable enough to host our entire infrastructure as dealing with multi-cloud and cloud abstraction with a small team is not viable.
 
+We **SHOULD** treat infrastrucutre as code as much as possible
 
+We **SHOULD** be careful to not allocate many more resources that we need,
+
+We **MUST** allocate at least 30% more resources than we need currently to have enough room for new clients.
+
+We **SHOULD** implement a proxy system for all the packages we need from external sources so we have a more stable ecosystem
 
