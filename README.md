@@ -1,29 +1,29 @@
 ## Developer Handbook
-An always evolving overview about how we work together as a team
+An always evolving overview about how we work together as a team. Suggestions are always welcome, just make a Pull Request.
 
 ### Rules and Conventions
-We currently use a best-effort approach to most of our rules described here, for now only a few of them are enforced.
+We currently use a best-effort approach to most of our rules described here, for now only a few of them are actually enforced.
 We do this to avoid growing pains and bikesheding while we build our team and shape our internal culture.
 
-MAY[ NOT], SHOULD[ NOT], MUST[ NOT]
-
--
+- MAY (Optional)
+- SHOULD (Recommended)
+- MUST (Enforced)
 
 ### Communication
 We use english for documentation, code comments and everything related to our software, this way we can scale our team worldwide.
 
 ### Programming Languages
 We SHOULD keep our project stacks as homogenous as possible but sometimes we have problems that MAY be solved using other languages and tools.
-If the problem we are trying to solve is both fully encapsulated AND performance sensitive we MAY use 
+If the problem you are trying to solve is both fully encapsulated
 
 #### Services:
-Default: Go
-Quick and Simple: PHP and Javascript
-Performance: C++ and Rust
+- Default: Go
+- Quick and Simple: PHP and Javascript
+- Performance: C++ and Rust
 
 #### Apps:
-Web: Javascript
-Mobile: Kotlin
+- Web: Javascript
+- Mobile: Kotlin
 
 
 -
