@@ -28,7 +28,7 @@ If the problem you are trying to solve is both fully encapsulated
 ### Development Flow
 Currently we use master as an staging branch which we try to never break, prod branch as production branch. By default all new code should be branched from master.
 We have a CI(Continuous Integration) pipeline attached to the master branch and a CD(Continuous Delivery) pipeline attached to prod branch.
-We will look into a proper gitflow after the team has enough size, maturity and predictability to account for the overhead.
+We will look into a proper gitflow(tags and releases) after the team has enough size, maturity and predictability to account for the overhead.
 
 1. Always commit
 2. Don't forget to commit frequently
