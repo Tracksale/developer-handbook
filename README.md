@@ -30,9 +30,11 @@ Currently we use master as an staging branch which we **MUST** to never break, p
 
 We have a CI(Continuous Integration) pipeline attached to the master branch and a CD(Continuous Delivery) pipeline attached to prod branch.
 
-We will look into a proper gitflow(tags and releases) after the team has enough size, maturity and predictability to account for the overhead.
+We **MAY** look into a proper gitflow(tags and releases) after the team has enough size, maturity and predictability to account for the overhead.
 
-1. Always commit
-2. Don't forget to commit frequently
-3. In doubt commit again
+We **SHOULD** commit frequently with helpful messages
+
+
+
+
 
