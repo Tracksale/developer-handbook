@@ -13,6 +13,12 @@ We do this to avoid growing pains and bikesheding while we build our team and sh
 ### Communication
 We **MUST** use english for documentation, code comments and everything related to our software, this way we can scale our team worldwide.
 
+We **MUST** create github issues for project tasks
+
+We **MUST NOT** use synchronous chat(Whatsapp, Telegram, Workplace) for important information or discussion, email or github isses are better for these use cases.
+
+Before changing something non-trivial in any project you **SHOULD** discuss the change with the project owner
+
 ### Programming Languages
 We **SHOULD** keep our project stacks as homogenous as possible but sometimes we have problems that **MAY** be solved using other languages and tools.
 
