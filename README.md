@@ -25,9 +25,6 @@ If the problem you are trying to solve is both fully encapsulated
 - Web: Javascript
 - Mobile: Kotlin
 
-
--
-
 ### Development Flow
 Currently we use master as an staging branch which we try to never break, prod branch as production branch. By default all new code should be branched from master.
 We have a CI(Continuous Integration) pipeline attached to the master branch and a CD(Continuous Delivery) pipeline attached to prod branch.
