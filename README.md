@@ -1,16 +1,32 @@
 ## Developer Handbook
-#### How we do our stuff
+An always evolving overview about how we work together as a team
 
-### About rules and conventions
+### Rules and Conventions
 We currently use a best-effort approach to most of our rules described here, for now only a few of them are enforced.
 We do this to avoid growing pains and bikesheding while we build our team and shape our internal culture.
 
 MAY[ NOT], SHOULD[ NOT], MUST[ NOT]
 
+-
+
 ### Communication
 We use english for documentation, code comments and everything related to our software, this way we can scale our team worldwide.
 
-### Languages
+### Programming Languages
+We SHOULD keep our project stacks as homogenous as possible but sometimes we have problems that MAY be solved using other languages and tools.
+If the problem we are trying to solve is both fully encapsulated AND performance sensitive we MAY use 
+
+#### Services:
+Default: Go
+Quick and Simple: PHP and Javascript
+Performance: C++ and Rust
+
+#### Apps:
+Web: Javascript
+Mobile: Kotlin
+
+
+-
 
 ### Development Flow
 Currently we use master as an staging branch which we try to never break, prod branch as production branch. By default all new code should be branched from master.
