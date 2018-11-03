@@ -11,10 +11,10 @@ We do this to avoid growing pains and bikesheding while we build our team and sh
 - MUST (Enforced)
 
 ### Communication
-We *MUST* use english for documentation, code comments and everything related to our software, this way we can scale our team worldwide.
+We **MUST** use english for documentation, code comments and everything related to our software, this way we can scale our team worldwide.
 
 ### Programming Languages
-We *SHOULD* keep our project stacks as homogenous as possible but sometimes we have problems that MAY be solved using other languages and tools.
+We **SHOULD** keep our project stacks as homogenous as possible but sometimes we have problems that **MAY** be solved using other languages and tools.
 
 #### Services:
 - Default: Go
@@ -26,7 +26,7 @@ We *SHOULD* keep our project stacks as homogenous as possible but sometimes we h
 - Mobile: Kotlin
 
 ### Development Flow
-Currently we use master as an staging branch which we try to never break, prod branch as production branch. By default all new code should be branched from master.
+Currently we use master as an staging branch which we **MUST** to never break, prod branch as production branch. By default all new code **SHOULD** be branched from master.
 
 We have a CI(Continuous Integration) pipeline attached to the master branch and a CD(Continuous Delivery) pipeline attached to prod branch.
 
