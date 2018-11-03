@@ -11,12 +11,10 @@ We do this to avoid growing pains and bikesheding while we build our team and sh
 - MUST (Enforced)
 
 ### Communication
-We use english for documentation, code comments and everything related to our software, this way we can scale our team worldwide.
+We *MUST* use english for documentation, code comments and everything related to our software, this way we can scale our team worldwide.
 
 ### Programming Languages
-We SHOULD keep our project stacks as homogenous as possible but sometimes we have problems that MAY be solved using other languages and tools.
-
-If the problem you are trying to solve is both fully encapsulated
+We *SHOULD* keep our project stacks as homogenous as possible but sometimes we have problems that MAY be solved using other languages and tools.
 
 #### Services:
 - Default: Go
