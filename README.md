@@ -43,6 +43,16 @@ We **MAY** look into a proper gitflow(tags and releases) after the team has enou
 
 We **SHOULD** commit frequently with helpful messages
 
+### Code style
+
+We **MUST** enforce consistent code style considering the programming language.
+
+We **SHOULD** automate code formatation with git *commit-msg* hook.
+
+We **SHOULD** follow community best practices.
+
+We **MUST** aways be discussing about code style.
+
 ### Infrastructure
 
 We **MUST** consider AWS as stable and reliable enough to host our entire infrastructure as dealing with multi-cloud and cloud abstraction with a small team is not viable.
