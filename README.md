@@ -43,6 +43,15 @@ We **MAY** look into a proper gitflow(tags and releases) after the team has enou
 
 We **SHOULD** commit frequently with helpful messages
 
+### Issues and Pull Requests
+TODO
+
+### Testing
+TODO
+
+### Tooling
+TODO
+
 ### Code style
 
 We **MUST** enforce consistent code style considering the programming language.
@@ -72,3 +81,7 @@ We **SHOULD** embrace open source where possible, this means open sourcing proje
 We **SHOULD** behave profissionally while representing the company in public events.
 
 We **MAY** host our own events but they **MUST** be held to really high standards and the presentations **MUST** be backed by real world production data, we **MAY** charge entrance fees
+
+### Resources
+- (Mike Acton - Data Oriented Design)[https://www.youtube.com/watch?v=rX0ItVEVjHc]
+- 
