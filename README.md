@@ -22,7 +22,7 @@ We **MUST NOT** use synchronous chat(Whatsapp, Telegram, Workplace) for importan
 
 Before changing something non-trivial in any project you **SHOULD** discuss the change with the code owner
 
-### Programming Languages
+https://www.youtube.com/watch?v=rX0ItVEVjHc### Programming Languages
 We **SHOULD** keep our project stacks as homogenous as possible but sometimes we have problems that **MAY** be solved using other languages and tools.
 
 #### Services:
@@ -41,7 +41,7 @@ We have a CI(Continuous Integration) pipeline attached to the master branch and 
 
 We **MAY** look into a proper gitflow(tags and releases) after the team has enough size, maturity and predictability to account for the overhead.
 
-We **SHOULD** commit frequently with helpful messages
+We **MUST** commit frequently with helpful messages
 
 ### Issues and Pull Requests
 TODO
